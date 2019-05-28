@@ -1,0 +1,5 @@
+login,[],None,None,0,0;,[]
+text_page,[boundary_and_prominence_nonspecific_instructions],None,None,0:1.9,1;,[]
+boundary_and_prominence,[apples,apples,1,-1,nonspecific_boundary_instr,nonspecific_prominence_instr,true],1,2,0:25.6,2;,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1
+boundary_and_prominence,[LJ019-0070,LJ019-0070,1,-1,nonspecific_boundary_instr,nonspecific_prominence_instr,true],3,4,4:50.4,3;,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,1
+boundary_and_prominence,[LJ019-0071,LJ019-0071,1,-1,nonspecific_boundary_instr,nonspecific_prominence_instr,true],1,1,0:29.8,4;,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
